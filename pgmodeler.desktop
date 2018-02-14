@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=PGmodeler
+Exec=/usr/local/bin/pgmodeler
+Type=Application
+Icon=/opt/pgmodeler_ico.png
+Name[fr_FR]=PGmodeler

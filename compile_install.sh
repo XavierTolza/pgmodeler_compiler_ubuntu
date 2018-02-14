@@ -6,3 +6,5 @@ cd pgmodeler &&
 qmake pgmodeler.pro &&
 make &&
 sudo make install
+sudo cp ../pgmodeler_ico.png /opt
+cp ../pgmodeler.desktop ~/.local/share/applications/
